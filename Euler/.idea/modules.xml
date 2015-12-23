@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../HackerRank/AccelHacks/.idea/AccelHacks.iml" filepath="$PROJECT_DIR$/../HackerRank/AccelHacks/.idea/AccelHacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Euler.iml" filepath="$PROJECT_DIR$/.idea/Euler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pythonist/.idea/Pythonist.iml" filepath="$PROJECT_DIR$/../Pythonist/.idea/Pythonist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../courier/.idea/courier.iml" filepath="$PROJECT_DIR$/../courier/.idea/courier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../courier_project/.idea/courier_project.iml" filepath="$PROJECT_DIR$/../courier_project/.idea/courier_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DJANGO_PROJECTS/practicum_project/.idea/practicum_project.iml" filepath="$PROJECT_DIR$/../DJANGO_PROJECTS/practicum_project/.idea/practicum_project.iml" />
+    </modules>
+  </component>
+</project>
